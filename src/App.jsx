@@ -1,7 +1,6 @@
-import React from "react";
-import Intro from "./components/intro/Intro";
-import Pitch from "./components/pitch/Pitch";
 import { Outlet } from "react-router-dom";
+
+import "./index.css";
 
 export default function App() {
     return (
