@@ -9,6 +9,7 @@ const Home = () => {
             <nav className='navbar'>
                 <Link to='/about'>Om meg</Link>
                 <Link to='/projects'>Mine prosjekter</Link>
+                <Link to='/contact'>Kontakt meg</Link>
             </nav>
             <div>
                 <h1>Velkommen til min portfolio</h1>
